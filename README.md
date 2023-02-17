@@ -4,4 +4,4 @@
 
 ## Graphical User Interface
 
-![Application Gui](./Gui.png)
+![Application Gui](./Screen.png)
